@@ -1,4 +1,4 @@
-# hey, I'm Sium 👋
+# Hello, I'm Sium 👋
 
 I work for an Organization known as The Navaan Foundation, from editing wiki, launching gifs and patching wiki infrastructure 
 
