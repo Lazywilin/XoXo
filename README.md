@@ -6,7 +6,7 @@ I work for an Organization known as The Navaan Foundation, from editing wiki, la
 `C++` `Java` `LUA`
 
 **Specialties**
-- Making Gifs
+- Making GIFs
 - Video Editior
 - Graphic Designer
 
