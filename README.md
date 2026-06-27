@@ -3,8 +3,7 @@
 I work for an Organization known as The Navaan Foundation, from editing wiki, launching gifs and patching wiki infrastructure 
 
 **Languages**  
-`C#` `C++` `C` `Rust` `Java` `Kotlin`
-
+`C++` `Java` `LUA`
 **Specialties**
 - Making Gifs
 - Video Editior
